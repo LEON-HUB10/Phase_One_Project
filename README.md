@@ -110,4 +110,9 @@ Recommendation: Invest in crash-absorbing structural designs, improved aircraft 
 Recommendation: Focus targeted safety audits, pilot licensing standards, and design reviews on airplane and helicopter operations, especially in high-traffic regions or commercial use cases.
 
 
+Tableau Dashboard link - https://public.tableau.com/app/profile/leon.karanja/viz/PhaseOneProjectTableau/Dashboard1?publish=yes
+
+
+
+
 
